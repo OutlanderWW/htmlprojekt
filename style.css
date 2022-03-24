@@ -1,4 +1,13 @@
 footer{
+    width: 100%;
+    background-color: red;
+    position:absolute;
     bottom: 0px;
 }
 
+.flexbox{
+    display:flex;
+    list-style: none;
+    justify-content: space-evenly;
+
+}
