@@ -10,7 +10,7 @@ footer{
     list-style: none;
     justify-content: space-evenly;
     border: #0f52ba;
-
+   
 }
 body{
     background-color: #6f747c ;
@@ -28,5 +28,8 @@ body{
     right: 20px;
 }
 main{
+    width: 80%;
+}
+header{
     width: 80%;
 }
