@@ -1,6 +1,6 @@
 footer{
     width: 100%;
-    background-color: red;
+    background-color: #0f52ba;
     position:absolute;
     bottom: 0px;
 }
@@ -10,4 +10,19 @@ footer{
     list-style: none;
     justify-content: space-evenly;
 
+}
+body{
+    background-color: #6f747c ;
+    font-family: 'Raleway', sans-serif;
+}
+.wym{
+    font-family: 'Raleway', sans-serif;
+    color: black;
+}
+.logo{
+    width: 150px;
+    height: 100px;
+    position: fixed;
+    top: 20px;
+    right: 20px;
 }
