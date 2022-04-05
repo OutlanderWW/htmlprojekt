@@ -9,6 +9,7 @@ footer{
     display:flex;
     list-style: none;
     justify-content: space-evenly;
+    border: #0f52ba;
 
 }
 body{
@@ -25,4 +26,7 @@ body{
     position: fixed;
     top: 20px;
     right: 20px;
+}
+main{
+    width: 80%;
 }
