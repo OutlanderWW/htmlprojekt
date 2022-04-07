@@ -40,5 +40,12 @@ header{
     
 }
 .can{
-    
+width: 203px;
+height: 297px;
+}
+.div{
+    display: flex;
+    width: 80%;
+    justify-content: space-evenly;
+
 }
