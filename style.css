@@ -19,6 +19,8 @@ body{
 .wym{
     font-family: 'Raleway', sans-serif;
     color: black;
+    border: 10px solid #3B9AF0;
+    width: 100%;
 }
 .logo{
     width: 150px;
@@ -28,7 +30,7 @@ body{
     right: 20px;
 }
 main{
-    width: 80%;
+    width: 95%;
 }
 header{
     width: 80%;
@@ -48,4 +50,9 @@ height: 300px;
 .div{
     display: flex;
     justify-content: space-evenly;
+    border: 5px solid #000000;
+    padding: 5px;
+}
+.h4{
+    font-size: small;
 }
