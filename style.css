@@ -34,18 +34,19 @@ header{
     width: 80%;
 }
 .kubek{
-
+width: 275px;
+height: 300px;
 }
 .torba{
-    
+    width: 250px;
+    height: 300px;
 }
 .can{
 width: 203px;
-height: 297px;
+height: 300px;
 }
 .div{
     display: flex;
-    width: 80%;
     justify-content: space-evenly;
 
 }
