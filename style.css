@@ -9,8 +9,8 @@ footer{
     display:flex;
     list-style: none;
     justify-content: space-evenly;
+    border-style: solid;
     border: #0f52ba;
-   
 }
 body{
     background-color: #6f747c ;
@@ -48,5 +48,4 @@ height: 300px;
 .div{
     display: flex;
     justify-content: space-evenly;
-
 }
