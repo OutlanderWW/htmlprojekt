@@ -1,0 +1,10 @@
+body{
+    background-color: #6f747c ;
+    font-family: 'Raleway', sans-serif;
+}
+footer{
+    width: 100%;
+    background-color: #0f52ba;
+    position:absolute;
+    bottom: 0px;
+}
