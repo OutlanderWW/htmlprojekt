@@ -8,3 +8,18 @@ footer{
     position:absolute;
     bottom: 0px;
 }
+.mapa{
+    width: 780px;
+    height: 500px;
+    position: absolute;
+    left: 100px;
+    top: 200px;
+
+}
+.tekst{
+    font-size: 10px;
+}
+.lorem{
+    position: fixed;
+    top: 700px;
+}
