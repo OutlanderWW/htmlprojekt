@@ -20,6 +20,7 @@ footer{
     position: fixed;
     bottom: 0%;
     background-color: #0f52ba;
+    width: 100%;
 }
 .sin{
 background-color:  #808080; ;
@@ -30,4 +31,17 @@ textarea{
 header{
     font-family: 'Raleway', sans-serif;
     font-size: medium;
+}
+.flexbox{
+    display:flex;
+    list-style: none;
+    justify-content: space-evenly;
+    border-style: solid;
+    border: #0f52ba;
+    flex-direction: row;
+}
+a{
+
+    text-decoration: none;
+    color: #000;
 }

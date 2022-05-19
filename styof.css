@@ -23,3 +23,16 @@ footer{
     position: fixed;
     top: 700px;
 }
+.flexbox{
+    display:flex;
+    list-style: none;
+    justify-content: space-evenly;
+    border-style: solid;
+    border: #0f52ba;
+    flex-direction: row;
+}
+a{
+
+    text-decoration: none;
+    color: #000;
+}
