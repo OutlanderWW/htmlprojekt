@@ -32,6 +32,7 @@ footer{
     border-style: solid;
     border: #0f52ba;
     flex-direction: row;
+    color: antiquewhite;
 }
 .head{
     border: 10px solid #0f52ba;
@@ -40,5 +41,5 @@ footer{
 a{
 
     text-decoration: none;
-    color: #000;
+    color: antiquewhite;
 }
